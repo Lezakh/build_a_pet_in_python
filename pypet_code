@@ -7,17 +7,16 @@ import threading,time,sys
 #About you
 master="Ophélie"
 
-#bio pypet
+#Bio of pypet
 photo= "╯°□°╯"
 name= "Bidule"
 age= 1
 weight= 500
-
 hungry=True
 hug=False
 
 
-#Phrases
+#Phrases used to display random sentence with the random module
 happy = ["(╯・ω・）╯︵ ┻━┻ (je te déteste ❤)", "(╯⌒□⌒）╯︵ ┻━┻ (je te déteste ❤)"]
 love = ["(╯#°□°#）╯︵ ┻━┻ (❤)", "(╯#‾□‾#）╯ ︵ ┻━┻ ((❤))"]
 hungry = ["(╯‾□‾）╯ ︵ ┻━┻ (j'ai faim !)", "ლ(´ڡ`ლ) ︵ ┻━┻ (j'ai faim !!!)", "(╯+.+）╯︵ ┻━┻ (je vais te tuer !!!... puis te bouffer)"]
