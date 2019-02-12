@@ -9,17 +9,6 @@ import threading,time,sys
 from datetime import datetime
 
 
-#pour créer une interface visuelle
-from tkinter import *
-
-
-
-#interface graphique
-Canvas(width=200, height=200, bg='white').pack(side=TOP, padx=5, pady=5)
-Button(text ='Feed').pack(side=LEFT, padx=5, pady=5)
-Button(text ='Play').pack(side=RIGHT, padx=5, pady=5)
-
-
 
 
 #Infos
@@ -72,26 +61,6 @@ chifumi = ["pierre", "papier", "ciseau"]
 hungry=True
 hug=False
 
-
-#Hungry gestion
-
-lock = threading.Lock()
-
-def hungergestion():
-    global weight
-    if weight > 0:
-        threading.Timer(1, hungergestion).start()  
-        lock.acquire()
-        weight -= 50
-        lock.release()
-        hungry=True
-
-threading.Timer(1,hungergestion).start()
-
-lock.acquire()
-
-
-#Age gestion
 
 
 
