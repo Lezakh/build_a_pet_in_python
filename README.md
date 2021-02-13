@@ -3,6 +3,14 @@ I try to create a tamagochi like in Python 3.
 
 > Realized by following partially this tutorial (in Python 2) : https://www.youtube.com/watch?v=TburgnvAPLE
 
+Some functionalities were added :
+- see the stats (age ; weight ; if it like you or not and level of energy)
+- Feed it
+- Chat with it (limited dialogues lol)
+- Play with it (rock paper cissors, diece game)
+- Make it sleep (to recover energy)
+
+It keep in memory all stats when the windows is closed properly (with quit button)
 
 
 
