@@ -6,11 +6,13 @@ Realized by following partially this tutorial (in Python 2) : https://www.youtub
 I firt program it without interface, using terminal of commands.
 
 
+
 With ASCII Art Interface
 ---------------
 Next, I used ASCII art to customize it.
 
-<img src="https://github.com/Lezakh/build_a_pet_in_python/blob/Ascii_art_interface/bidule%20ascii.bmp" width="650">
+<img src="https://github.com/Lezakh/build_a_pet_in_python/blob/Ascii_art_interface/bidule%20ascii.bmp" width="640">
+
 
 
 With Tkinter Graphic Interface
