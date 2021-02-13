@@ -1,4 +1,4 @@
-# build_a_pet_in_python
+# Build a Pytpet in Python
 Create a tamagochi like in Python 3. 
 
 Realized by following partially this tutorial (in Python 2) : https://www.youtube.com/watch?v=TburgnvAPLE
