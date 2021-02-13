@@ -5,7 +5,7 @@ Realized by following partially this tutorial (in Python 2) : https://www.youtub
 
 I firt program it without interface, using terminal of commands.
 Next, I used ASCII art to customize it.
-![alt text](https://github.com/Lezakh/build_a_pet_in_python/blob/Ascii_art_interface/bidule%20ascii.bmp)
+![alt text](https://github.com/Lezakh/build_a_pet_in_python/blob/Ascii_art_interface/bidule%20ascii.bmp | width=250)
 
 Then, I add a real graphic interface with Tkinter... Now I try to fix all the bug it causes :)
-![alt text](https://raw.githubusercontent.com/Lezakh/build_a_pet_in_python/Tkinter_Graphic_interface/Bidule_window.bmp)
+![alt text](https://raw.githubusercontent.com/Lezakh/build_a_pet_in_python/Tkinter_Graphic_interface/Bidule_window.bmp | width=250)
