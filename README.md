@@ -1,8 +1,7 @@
 # Build a Pytpet in Python
 I try to create a tamagochi like in Python 3. 
 
-> 
-Realized by following partially this tutorial (in Python 2) : https://www.youtube.com/watch?v=TburgnvAPLE
+> Realized by following partially this tutorial (in Python 2) : https://www.youtube.com/watch?v=TburgnvAPLE
 
 I firt program it without interface, using terminal of commands.
 
