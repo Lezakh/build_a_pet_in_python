@@ -26,6 +26,6 @@ Next, I used ASCII art to customize it.
 With Tkinter Graphic Interface
 ---------------
 
-Then, I add a real graphic interface with Tkinter... Now I try to fix all the bug it causes :)
+Then, I add a real graphic interface with Tkinter and draw my fishe pypet... Now I try to fix all the bug it causes :)
 
 ![alt text](https://raw.githubusercontent.com/Lezakh/build_a_pet_in_python/Tkinter_Graphic_interface/Bidule_window.bmp)
