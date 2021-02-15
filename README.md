@@ -19,7 +19,7 @@ With ASCII Art Interface
 I first program it without interface, using terminal of commands.
 Next, I used ASCII art to customize it.
 
-<img src="https://github.com/Lezakh/build_a_pet_in_python/blob/Ascii_art_interface/bidule%20ascii.bmp" width="640">
+<img src="https://raw.githubusercontent.com/Lezakh/build_a_pet_in_python/master/bidule%20ascii.bmp" width="640">
 
 
 
